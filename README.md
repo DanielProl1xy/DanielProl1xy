@@ -29,7 +29,6 @@ Experienced software engineer proficient in the **Spring Framework**, **Hibernat
 Feel free to reach out if you want to collaborate or just chat!
 
 - [jononjon70@gmail.com](jononjon70@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/artdanil4/)
 
 ---
 
